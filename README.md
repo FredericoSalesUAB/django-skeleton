@@ -10,6 +10,18 @@ Django project skeleton
 * virtualenv
 * virtualenvwrapper
 
+#### Add this lines to your .profile, .zshrc or .bashrc.
+
+    Remember to check oyur paths with which python.
+
+```bash
+export VIRTUALENVWRAPPER_PYTHON="/usr/local/bin/python"
+export WORKON_HOME="$HOME/.venvs"
+export PROJECT_HOME=$HOME/Documents/projects/python
+export VIRTUALENVWRAPPER_SCRIPT=/opt/homebrew/bin/virtualenvwrapper.sh
+source /opt/homebrew/bin/virtualenvwrapper_lazy.sh
+```
+
 ---
 
 ### Generate the project sum.
