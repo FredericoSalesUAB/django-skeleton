@@ -12,7 +12,7 @@ Django project skeleton
 
 #### Add this lines to your .profile, .zshrc or .bashrc.
 
-    Remember to check oyur paths with which python.
+    Remember to check oyur paths with which [command].
 
 ```bash
 export VIRTUALENVWRAPPER_PYTHON="/usr/local/bin/python"
