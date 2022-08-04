@@ -32,8 +32,8 @@ Django project skeleton
 ```json
 {
     "HOST"       : "localhost",
-    "NAME"       : "slut",
-    "USER"       : "bimbo",
+    "NAME"       : "kolmogorov",
+    "USER"       : "9f0098eafbf0a44709aa8908b2d168z2xbg&(ja2)mr*-",
     "PASSWORD"   : "af4a52150834d9f0098eafbf0a44709aa8908b2d",
     "PORT"       : "5432",
     "ENGINE"     : "django.db.backends.postgresql",
