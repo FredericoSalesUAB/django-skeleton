@@ -12,7 +12,7 @@ Django project skeleton
 
 #### Add this lines to your .profile, .zshrc or .bashrc.
 
-    Remember to check oyur paths with which [command].
+    Remember to check your application path with: which [command].
 
 ```bash
 export VIRTUALENVWRAPPER_PYTHON="/usr/local/bin/python"
@@ -26,19 +26,21 @@ source /opt/homebrew/bin/virtualenvwrapper_lazy.sh
 
 ### Generate the project sum.
 
-    Download the project/application skeleton from the git.
-
-```bash
-[user@machine] $: git clone https://github.com/infracead/skel.git
-```
-
     Create the new project / application.
 
 ```bash
-[user@machine] $: mkproject project-application
+[user@machine ~/ ] $: mkproject blog
 ```
 
-Generate the new configuration file config.json. 
+    Download the project/application skeleton from the git.
+
+```bash
+(blog) [user@machine ~/Documents/projects/blog ] $: git clone https://github.com/infracead/django-skeleton.git
+```
+
+
+
+Generate the new configuration file config.json in the scripts folder.
 Edit the file to reach the needed result.
     
 ```json
