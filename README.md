@@ -26,8 +26,8 @@ Django project skeleton
 [user@machine] $: mkproject project-application
 ```
 
-    Generate the new configuration file **config.json**. 
-    Edit the file to reach the needed result.
+Generate the new configuration file config.json. 
+Edit the file to reach the needed result.
     
 ```json
 {
@@ -51,13 +51,13 @@ Django project skeleton
 ```
 
 ```bash
-[user@machine] $: shasum ~/path/to/manage.py
+(blog) [user@machine ~/Documents/projects/blog ] $: shasum ~/path/to/manage.py
 ```
 
 #### Using the Makefile
 
 ```bash
-[user@machine] $: make help
+(blog) [user@machine ~/Documents/projects/blog ] $: make help
 ```
 
 ---
