@@ -26,7 +26,7 @@ Django project skeleton
 [user@machine] $: mkproject project-application
 ```
 
-    Generate the new configuration file __config.json__. 
+    Generate the new configuration file **config.json**. 
     Edit the file to reach the needed result.
     
 ```json
