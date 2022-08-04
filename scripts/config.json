@@ -1,0 +1,18 @@
+{
+    "HOST"       : "localhost",
+    "NAME"       : "slut",
+    "USER"       : "bimbo",
+    "PASSWORD"   : "af4a52150834d9f0098eafbf0a44709aa8908b2d",
+    "PORT"       : "5432",
+    "ENGINE"     : "django.db.backends.postgresql",
+    "SECRET"     : "django-insecure-jc_c$0l(s&6=a0a^5=r*168z2xbg&(ja2)mr*-fb4sn)svxsiu",
+    "SITE_ID"    : "2532e07bc89da4988fbefd042d0f1f75b3c7251a",
+    "TIME_ZONE"  : "America/Sao_Paulo",
+    "LANGUAGE"   : "pt-BR",
+    "USE_I18N"   : "True",
+    "USE_TZ"     : "True",
+    "STATIC_URL" : "static/",
+    "ASSETS"     : "static/assets",
+    "DEBUG"      : "True",
+    "SQLITE"     : "blog.sqlite3"
+}
