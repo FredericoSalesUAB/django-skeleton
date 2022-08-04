@@ -54,6 +54,12 @@ Django project skeleton
 [user@machine] $: shasum ~/path/to/manage.py
 ```
 
+#### Using the Makefile
+
+```bash
+[user@machine] $: make help
+```
+
 ---
 
 #### Use the following skeleton.
